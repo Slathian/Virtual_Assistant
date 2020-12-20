@@ -18,4 +18,4 @@ The general Idea here is that we will be taking our voices and turning it into l
 
 # My goal
 
-My goal here is to eventually take this bare bones code and create a fully customized program tailored to my needs, but also allow you to come and take the code and use it to your own needs. I will be making my code modular in practice so that the specific tasks would not be pushed out to Github. 
+My goal here is to eventually take this bare bones code and create a fully customized program tailored to my needs, but also allow you to come and take the code and use it to your own needs. I will be making my code modular in practice so that the personal modules will not be pushed to github, but you can see and use any changes you've found.
